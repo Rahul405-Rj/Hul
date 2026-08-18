@@ -2,11 +2,12 @@
 
 {
 
-"id": "673bd50d4869aca4", 
-  "key": "1234", 
-  "expiresAt": "2026-10-01", 
-  "allowOffline": true
-},
+"id":"673bd50d4869aca4", 
+  "key":"1234", 
+  "expiresAt":"2026-10-01", 
+  "allowOffline":"true"
+}
+  ,
 
 
 
